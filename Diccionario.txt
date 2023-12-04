@@ -1,0 +1,14 @@
+Signos_de_agrupación Paréntesis_izquierdo (
+Signos_de_agrupación Paréntesis_derecho )
+Signos_de_agrupación Llave_izquierda {
+Signos_de_agrupación Llave_derecha }
+Signos_de_agrupación Corchete_izquierdo [
+Signos_de_agrupación Corchete_derecho ]
+Signos_aritméticos Signo_de_suma +
+Signos_aritméticos Signo_de_resta -
+Signos_aritméticos Signo_de_división /
+Signos_aritméticos Signo_de_multiplicación *
+Palabras_reservadas Variable_int int
+Palabras_reservadas Variable_double double
+Palabras_reservadas Variable_float float
+Palabras_reservadas Variable_booleana boolean
